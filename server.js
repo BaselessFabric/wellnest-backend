@@ -10,7 +10,7 @@ const { Pool } = require("pg");
 const cors = require("cors");
 
 const app = express();
-const port = 3001;
+const port = 3000;
 
 app.use(cors());
 
